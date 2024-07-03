@@ -1,0 +1,8 @@
+{
+    "username": "your-email@example.com",
+    "password": "your-password",
+    "store_hash": "store-hash",
+    "start_product_id": 100,
+    "end_product_id": 200,
+    "driver_path": "/path/to/chromedriver"
+  }
