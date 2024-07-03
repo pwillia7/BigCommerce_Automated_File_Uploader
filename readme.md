@@ -4,6 +4,8 @@
 
 The BigCommerce Automated File Uploader is a Python script that automates the process of uploading files to products in a BigCommerce store. This script uses Selenium to interact with the BigCommerce admin interface, simulating user actions to upload files since file upload is not available via API or CSV. 
 
+[Video demo can be found here.](https://www.youtube.com/watch?v=7TEtB1QpJlE)
+
 ## Requirements
 
 - Python 3.x
